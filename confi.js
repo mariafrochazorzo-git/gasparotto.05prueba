@@ -1,5 +1,5 @@
 
 window.GASPAROTTO_CONFIG = {
   supabaseUrl: "https://ugeszmwavgwiffokkkck.supabase.co",
-  supabaseKey: "TU_CLAVE_PUBLICA"
+  supabaseKey: "sb_publishable_-MFng4IoMdO_JWPtohJGnQ_zf4N1_K8"
 };
